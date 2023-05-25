@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string-array name="types">
+        <item>definition</item>
+        <item>word</item>
+    </string-array>
+</resources>
